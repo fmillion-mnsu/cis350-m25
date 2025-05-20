@@ -15,7 +15,7 @@ This is a 4-credit course.
 ## Class Time and Place
 
 * **Semester**: Summer 2025, Section 1 (5/20/2024 through 6/18/2024), **9** class sessions
-* **Days and Time**: Mondays and Wednesdays, 11:00 AM - 1:00 PM
+* **Days and Time**: Mondays and Wednesdays, 11:15 AM - 1:15 PM
 * **Location:** Zoom - Link will be shared via D2L and by Email.
 
 > Note: There is **no class** on Thursday, June 19th, in observance of Juneteenth.
