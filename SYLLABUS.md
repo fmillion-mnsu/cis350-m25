@@ -15,7 +15,7 @@ This is a 4-credit course.
 ## Class Time and Place
 
 * **Semester**: Summer 2025, Section 1 (5/20/2024 through 6/18/2024), **9** class sessions
-* **Days and Time**: Mondays and Wednesdays, 11:15 AM - 1:15 PM
+* **Days and Time**: Tuesdays and Thursdays, 11:15 AM - 1:15 PM
 * **Location:** Zoom - Link will be shared via D2L and by Email.
 
 > Note: There is **no class** on Thursday, June 19th, in observance of Juneteenth.
@@ -106,7 +106,9 @@ Late submission days *include weekends*. (If an assignment is due on Friday at 1
 
 ### Attendance Grading
 
-Because attendance is very important in online courses, I will be taking attendance **randomly** in this course. Attendance makes up 10% of your total grade. If you are **more than 10 minutes late** you will receive **half credit** for the day; if you are **more than 15 minutes late** you will **not receive attendance credit**.
+Because attendance is very important in online courses, I will be taking attendance in this course. Attendance makes up 10% of your total grade. If you are **more than 10 minutes late** you will receive **half credit** for the day; if you are **more than 15 minutes late** you will **not receive attendance credit**.
+
+For attendance to count, **you must join the Zoom room on your own device, and you must ensure your Zoom name is set to your real name (or preferred name).** If you are in person with another classmate, that is OK, but you still must join one device for each person. If you do decide to attend class as two or more people in the same physical space, make sure to mute the mic and sound of all but one device.
 
 If you need to miss a class, you should contact me *as early as possible* to explain your situation. I will make reasonable accommodations for important activities that require you to be absent from class; if your absence is significant I may offer you some make-up work. **Notifying me of an absence after the fact will NOT result in an excused absence unless the circumstances are particularly extreme and warrant such an accommodation.** Such exceptions will only be made on a case-by-case basis. If you miss class for any reason, **you are responsible for communicating with your classmates** to obtain the knowledge you missed during the lecture.
 
