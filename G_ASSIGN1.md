@@ -14,9 +14,9 @@ This assignment will give you some practice with executing a **port scan**, a si
 >
 > **Don't risk it!!**
 
-For this exercise, you need to download two virtual machine images. The images can be downloaded from D2L in the Content section under "Assignment VM Images/Assignment 1".
+For this exercise, you need to download two virtual machine images. The images can be downloaded from D2L in the Content section under "VM Images/Assignment 1" for both Mac and Windows platforms.
 
-There are two sets of images - one for VirtualBox users who are using Windows or Intel Macs, and one for UTM users on Apple Silicon Macs.
+There are two sets of images - one for VMware Workstation users who are using Windows (or VMware Fusion on Intel Macs), and one for VMware Fusion users on Apple Silicon Macs.
 
 ## Setup Steps
 
@@ -73,7 +73,6 @@ There are two sets of images - one for VirtualBox users who are using Windows or
     **You do NOT need to include screenshots or proof of the ping command in your submission.**
 
 1. Now it's time to actually execute the portscan.
-
 
 ## Portscan Steps
 
