@@ -27,7 +27,7 @@ To protect others' confidentiality, you should remove or mask any personally ide
 
 ## Deliverable
 
-Write up your eight threats, their scores and your suggested mitigations into a Word or PDF document and upload it to the D2L Dropbox. 
+Write up your eight threats, their scores and your suggested mitigations into a Word or PDF document and upload it to the D2L Dropbox.
 
 This is an **individual** assignment. All class members must submit an original, independently created submission.
 

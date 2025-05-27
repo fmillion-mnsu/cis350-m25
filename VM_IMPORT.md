@@ -12,7 +12,7 @@ You should not need to make any other changes - finish running through the wizar
 
 ## Mac
 
-> NOTE: If you are on an older **Intel-based Mac**, you can use the Windows `.ova` files and import them into VMware Fusion. You do NOT need to take the extra steps listed below to set the OS setting. 
+> NOTE: If you are on an older **Intel-based Mac**, you can use the Windows `.ova` files and import them into VMware Fusion. You do NOT need to take the extra steps listed below to set the OS setting.
 
 Importing a VM on a Mac is very similar, but involves one extra step.
 
