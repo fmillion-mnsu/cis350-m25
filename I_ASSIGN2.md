@@ -2,7 +2,7 @@
 
 One of my main goals for you in this course is to come away with an increased awareness and appreciation for not only the methods and techniques used by both bad actors and cybersecurity professionals, but also how cybersecurity impacts everyone every day. The Presentation assignment gives you a chance to explore a current event, issue or technical topic in cybersecurity and present your findings to your classmates. 
 
-Each student in this course will deliver one (1) presentation. You will deliver your presentation on the final day of synchronous course meetings on June 17th.
+Each student in this course will deliver one (1) presentation. **You will deliver your presentation on the final day of synchronous course meetings on June 17th**.
 
 ## Presentation Requirements
 
@@ -25,6 +25,12 @@ Please strive to avoid "low-hanging fruit" such as "another routine data breach"
 You may also choose to cover a technical topic, such as research into a novel way of attacking or infiltrating a secure system or network. In this case, the advice section should include a discussion on how the attack strategy might be used to attack a person and what a person might be able to do to try to mitigate or minimize negative impact.
 
 There is always a ton of interesting developments happening in cybersecurity, so I do not anticipate you'll have trouble finding a unique topic, However, if you are completely stuck and unsure of a topic, please contact me and I'll give you some ideas.
+
+## Submissions
+
+By **June 5th, 2025**, please submit your **chosen topic** and **one web link or other resource you will use** on D2L in the "Presentation Topic" dropbox.
+
+You will also submit your presentation itself - any materials you use (e.g. PowerPoint, link to online presentation, visual aids, links to videos, etc.) must be submitted to the main "Final Presentation" dropbox on D2L **prior to 11:15 AM on June 17th**.
 
 ## Scoring Rubric
 
