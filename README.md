@@ -6,6 +6,7 @@
 * Assignments:
   * Individual assignments:
     * [Assignment 1: Security in real life](I_ASSIGN1.md)
+    * [Assignment 2: Presentation on Cybersecurity Topic](I_ASSIGN2.md)
   * Group assignments:
     * [Group Assignment 1: Port Scans](G_ASSIGN1.md)
     * [Group Assignment 2: RC4 Algorithm](G_ASSIGN2.md)
