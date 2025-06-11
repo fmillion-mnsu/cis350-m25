@@ -1,6 +1,6 @@
 # Individual Assignment 3
 
-**Due Date: December 1, 2024 at 11:59 PM**
+**Due Date: June 17, 2024 at 11:59 PM**
 
 For this assignment, you will assume the role of a cybersecurity professional in an organization that has recently suffered a serious cyberattack and its operations have been compromised. You have also lost control of some personally-identifiable information (PII) has been exfiltrated from the organization.
 
@@ -55,5 +55,3 @@ This assignment is worth 50 points. Points are assigned as follows:
 | Provided practical guidance for users who are victims of the breach scenario | 15 | Variable point loss if significant or important details are missing. |
 | Provided information on mitigation of negative effects from the attack for both the user (e.g. offers of discounted monitoring) and the organization (e.g. resetting accounts with stolen passwords) | 15 | Variable point loss if poor/incorrect advice given or advice is missing. |
 | Document uploaded in correct format (Word or PDF) | 5 | Loss of points if document is not in PDF or Word format. **More or all points may be lost if I can't convert your submission into a readable format!** |
-
-Late submissions will receive a total loss of percentage of earned points based on the syllabus's Late Work policy. **Submissions 3 days late or later will receive 0 points.**
