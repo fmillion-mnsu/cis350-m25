@@ -1,6 +1,6 @@
-# Individual Assignment 3
+# Individual Assignment 3 - Responsible Disclosure
 
-**Due Date: June 17, 2024 at 11:59 PM**
+**Due Date: June 20, 2024 at 11:59 PM**
 
 For this assignment, you will assume the role of a cybersecurity professional in an organization that has recently suffered a serious cyberattack and its operations have been compromised. You have also lost control of some personally-identifiable information (PII) has been exfiltrated from the organization.
 

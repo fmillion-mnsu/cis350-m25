@@ -1,5 +1,7 @@
 # CIS 350 - Student Presentation Assignment
 
+**Due Date: June 17, 2024 at 11:59 PM**
+
 One of my main goals for you in this course is to come away with an increased awareness and appreciation for not only the methods and techniques used by both bad actors and cybersecurity professionals, but also how cybersecurity impacts everyone every day. The Presentation assignment gives you a chance to explore a current event, issue or technical topic in cybersecurity and present your findings to your classmates. 
 
 Each student in this course will deliver one (1) presentation. **You will deliver your presentation on the final day of synchronous course meetings on June 17th**.
