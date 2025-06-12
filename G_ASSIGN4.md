@@ -112,7 +112,7 @@ This assignment will give you the opportunity to experience packet sniffing and 
 
     These characters are an encrypted, encoded string that is cryptographically based on your code words.
 
-    **Repeat steps 12-19 a total of four times - see notes below.**
+    **Repeat steps 12-19 once for each group member - see notes below.**
 
 1. Close the window and go back to the packet capture window, and restart the capture to clear the view. 
 
