@@ -12,7 +12,7 @@
     * [Group Assignment 1: Port Scans](G_ASSIGN1.md)
     * [Group Assignment 2: RC4 Algorithm](G_ASSIGN2.md)
     * [Group Assignment 3: Password Cracking](G_ASSIGN3.md)
-    * [Group Assignment 4: Packet Sniffing](G_ASSIGN3.md)
+    * [Group Assignment 4: Packet Sniffing](G_ASSIGN4.md)
 * Resources:
   * **[Downloading Kali Linux](KALI.md)**
   * [Enigma Machine Emulator](https://www.101computing.net/enigma-machine-emulator/) - Try encrypting a message and sending it to a friend (along with the keys, of course!)
